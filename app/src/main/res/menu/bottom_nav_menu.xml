@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_inbox"
+        android:icon="@drawable/ic_inbox"
+        android:title="Inbox" />
+    <item
+        android:id="@+id/navigation_starred"
+        android:icon="@drawable/ic_favorito"
+        android:title="Favoritos" />
+    <item
+        android:id="@+id/navigation_sent"
+        android:icon="@drawable/ic_envio"
+        android:title="Enviado" />
+    <item
+        android:id="@+id/navigation_drafts"
+        android:icon="@drawable/ic_rascunho"
+        android:title="Rascunhos" />
+</menu>
